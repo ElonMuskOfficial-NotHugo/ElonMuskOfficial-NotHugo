@@ -49,7 +49,7 @@ General
 
 **Contact Me**
 
-*Available for contact on mail and on slack (Hugo van Lennep). Always open to new opportunities, challenges and learning experiences in the world of developement.
+*Available for contact on mail (link below) and on slack (Hugo van Lennep). Always open to new opportunities, challenges and learning experiences in the world of developement.
 <div align="left">
   <a href="https://slack.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo" /></a>
   <a href="mailto:hugovanlennep@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>
