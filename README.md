@@ -4,7 +4,7 @@
 
 **My Tech-Stack**
 
-*These are the primary technologies I have been using since the start of my coding career in September 24', however I am consistently working to improve this. My current challenge is to learning the react framework and using it to code a teaching assistant for Le Wagon lecturers.
+*These are the primary technologies I have been using since the start of my coding career in September 24', however I am consistently working to improve this. My current challenge is coding a teaching assistant application for Le Wagon lecturers.
 
 Front-end
 
