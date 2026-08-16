@@ -1,6 +1,6 @@
 **What do I do?**
 
-*I am currently employed as a functional consultant for Braintree and like spend my free time building apps, lifting weights and getting in a good boogy.
+*I am currently employed as a developer at PayZ and like spend my free time building apps, lifting weights and getting in a good boogy.
 
 **My Tech-Stack**
 
